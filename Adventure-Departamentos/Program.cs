@@ -8,6 +8,7 @@ namespace Adventure_Departamentos
 {
     static class Program
     {
+        //  YOSSENY GIMENA SANCHEZ CABRERA   03181998-01690
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>

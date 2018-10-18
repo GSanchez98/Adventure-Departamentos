@@ -26,6 +26,7 @@ namespace Adventure_Departamentos
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
+            /// YOSSENY GIMENA SANCHEZ CABRERA   0318-1998 - 01690
             // Verificamos que el codigo haya sido ingresaado para realizar la actualización.
             if (txtCodigo.Text == "")
             {
