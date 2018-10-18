@@ -47,5 +47,11 @@ namespace Adventure_Departamentos
              frmListar l = new frmListar();
             l.Show();
         }
+
+        private void btnActualizar_Click(object sender, EventArgs e)
+        {
+            frmActualizar act = new frmActualizar();
+            act.Show();
+        }
     }
 }
