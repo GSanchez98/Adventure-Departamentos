@@ -33,5 +33,19 @@ namespace Adventure_Departamentos
             frmAgregar a = new frmAgregar();
             a.Show();
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            // hacemos el llamado al formulario correspondiente a Eliminar
+            frmEliminar el = new frmEliminar();
+            el.Show();
+        }
+
+        private void btnListar_Click(object sender, EventArgs e)
+        {
+            // hacemos el llamado al formulario correspondiente a Eliminar
+             frmListar l = new frmListar();
+            l.Show();
+        }
     }
 }
